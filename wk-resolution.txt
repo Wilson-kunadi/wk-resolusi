@@ -1,0 +1,4 @@
+WK RESOLUSI
+- Learn basic Flutter
+- Go from basic to low intermediate Flutter programmer
+- Make a simple project
