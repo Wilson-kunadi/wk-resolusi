@@ -2,3 +2,5 @@ WK RESOLUSI
 - Learn basic Flutter
 - Go from basic to low intermediate Flutter programmer
 - Make a simple project
+- change job to programmer
+- upgrade job to intermediate lvl programmer
